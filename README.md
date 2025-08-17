@@ -29,7 +29,11 @@ Gráficos Desenvolvidos:
 -Gráfico de Barras Agrupadas - Faturamento por categoria
 -Gráfico de Barras - Comparativo de métricas (avaliações e frete)
 
-📊 Resultados da Análise:
+### 📈 Faturamento por Categoria
+![Faturamento por Categoria](./faturamento_por_categoria.png)
+*Análise comparativa do faturamento entre as 4 lojas por categoria de produto*
+
+Resultados da Análise:
 
 Loja 4: Menor faturamento total (R$ 1.384.497,58)
 
